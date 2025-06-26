@@ -5280,7 +5280,7 @@ yellow = "\033[1;33m"
 skyblue = "\033[1;36m"
 blue = "\033[1;34m"
 lightblue = "\033[38;5;81m"
-white = "\033[1;37m"
+white = "\x1b[38;5;46m"
 darkgreen= "\x1b[38;5;113m"
 gh ="\x1b[38;5;166m"
 gh2 = "\x1b[38;5;167m"
@@ -5300,7 +5300,7 @@ C3 = "\x1b[38;5;204m"
 C4 = "\x1b[38;5;205m"
 C5 = "\x1b[38;5;206m"
 C6 = "\x1b[38;5;207m"
-Q = "\x1b[38;5;118m"
+Q = "\x1b[38;5;43m"
 Q2 = "\x1b[38;5;119m"
 Q3 = "\x1b[38;5;120m"
 Q4 = "\x1b[38;5;121m"
@@ -5310,7 +5310,7 @@ W11 = "\x1b[42;19m"
 BG ="\x1b[47;100m"
 BG1 ="\x1b[40;1;37m"
 RW= "\x1b[0;95m"
-Z1 ="\x1b[38;5;30m"
+Z1 ="\x1b[38;5;80m"
 B = "\x1b[38;5;34m"
 B2 = "\x1b[38;5;35m"
 B3 = "\x1b[38;5;36m"
@@ -5318,13 +5318,20 @@ B4 = "\x1b[38;5;37m"
 B5= "\x1b[38;5;38m"
 B6 = "\x1b[38;5;39m"
 
+F = "\x1b[38;5;43m"
+F1 = "\x1b[38;5;201m"
+F2 = "\x1b[38;5;202m"
+F3 = "\x1b[38;5;203m"
+F4 = "\x1b[38;5;204m"
+F5  = "\x1b[38;5;205m"
+
 R = "\033[31m"  # Red
 G = "\033[32m"  # Green
 Y = "\033[33m"  # Yellow
 B = "\033[34m"  # Blue
 M = "\033[35m"  # Magenta
 P = "\033[36m"  # Cyan
-C = "\033[37m"  # White
+C = "\x1b[38;5;46m"  # White
 F = "\x1b[38;5;113m"
 def clear_screen():
     if 'termux' in platform.system().lower():
@@ -5360,7 +5367,7 @@ def jovan():
        {BG}  {BG1}Tools :{RW} {Z1}PREMIUM{BG}            {BG1}Status :{RW} {Q} online{BG}   {BG1}64bit {Q}user{BG}   {RW}
        {BG}  {BG1}Boost only :{RW} {blue}Facebook {BG}     {BG1}Country :{RW} {Z1} Philippines {BG}         {RW}
        {BG}                                                             {RW}
-       {BG}                    {BG1}DEVELOPER :{RW} {Q}HANZY{BG}                        {RW}
+       {BG}                    {BG1}DEVELOPER :{RW} {Q}MURPHY{BG}                       {RW}
        {BG}                                                             {RW}
        {BG}  {hotpink} ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{BG}   {RW} """)
 
@@ -6428,7 +6435,7 @@ def main():
     print(f"       {BG}                                                             {RW} ")
     print(f"""       {BG}  {Z1} ༺═────────────────{BG1}ACCOUNT OVERVIEWS{RW}{BG}{Z1}───────────────────═༻  {BG}{RW}
        {BG}                                                             {RW}
-       {BG}                    {Z1}𝗙𝗥𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 {yellow}» {Q}{total_accounts}3                       {BG}{RW}
+       {BG}                    {Z1}𝗙𝗥𝗔 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 {yellow}» {Q}{total_accounts}179                        {BG}{RW}
        {BG}                    {Z1}𝗙𝗥𝗔 𝗣𝗔𝗚𝗘𝗦  {yellow} » {Q}{total_pages}                          {BG}{RW}
        {BG}                    {Z1}𝗥𝗣𝗪 𝗔𝗖𝗖𝗢𝗨𝗡𝗧{yellow} » {Q}{ total_account_rpw}                          {BG}{RW}
        {BG}                    {Z1}𝗥𝗣𝗪 𝗣𝗔𝗚𝗘𝗦 {yellow}  » {Q}{total_pages_rpw}                          {BG}{RW} 
@@ -6437,7 +6444,7 @@ def main():
     print(f"       {BG}                                                             {RW} ")
     print(f"       {BG}                  {BG1} 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖 {RW}{BG}                         {RW} """)
     print(f"       {BG}                                                             {RW} ")
-    print(f"       {BG}   {Q}○ {lightblue}1/A {white}Add Facebook {white}account {blue}     ◆{Z1} Extraction{RW}{BG}              {RW} ")
+    print(f"       {BG}   {Q}○ {lightblue}1/A  {white}Add Facebook account {blue}     ◆{Z1} Extraction{RW}{BG}             {RW} ")
     print(f"       {BG}   {Q}○ {lightblue}2/B {white}Store Account Remover {blue}    ◆{Z1} Reset{RW}{BG}                   {RW} ")
     print(f"       {BG}   {Q}○ {lightblue}3/C {white}Removed Duplicate Accs{blue}    ◆{Z1} Account Remover{RW}{BG}         {RW} ")
     print(f"       {BG}   {Q}○ {lightblue}4/D {white}Live Account Checker{blue}      ◆{Z1} Checker {RW}{BG}                {RW} ")
