@@ -5367,7 +5367,7 @@ def jovan():
 {BB} │            {AA}  ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░  ░  ░    ░                   {BB} │
 {BB} │            {AA}  ░          ░ ░      ░ ░        ░                        {BB} │
 {BB} │                 {AA}  ░                                                  {BB} │
-{BB} │                           {Z1}Author: XIAN                            {BB}    │
+{BB} │                           {Z1}Author: Izekeil                          {BB}    │
 {BB} └───────────────────────────────────────────────────────────────────────┘""")
 import random
 import string
@@ -7551,3 +7551,4 @@ if __name__ == "__main__":
     
     
     
+
