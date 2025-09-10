@@ -7414,130 +7414,14 @@ def main():
 {BB} │   🗂️ Total of {red}RPW {white}PAGE Stored     : {total_pages_rpw}                                {BB}     │
 {BB} │                                                                        {BB}  │
 {BB} │              {green}A C C O U N T  O V E R V I E W  S T A T U S               {white} {BB} │
-{BB} └──────────────────────────────────────────────────────────────────────────┘""")
-    print(f" {BB}╭─────────────────────── > {green}[{red} Tools Overviews {green}] <{BB} ───────────────────────╮")
-    print(f" {BB}│ 1.{white} Facebook account Extractor                                       {BB}  │")
-    print(f" {BB}│ 2.{white} Checking Facebook account Status                                  {BB} │")
-    print(f" {BB}│ 3. {white}Validate Facebook Account Token                                   {BB} │")
-    print(f" {BB}│ 4. {white}Redeem Account                                                {BB}     │")
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭─────────────────────── >{green} [ {red}Auto Reaction {green}] <{BB} ─────────────────────────╮")
-    print(f" {BB}│ 5.{white} Automatic Reaction V1 [ Fast ]                                {BB}     │")
-    print(f"{BB} │ 6. {white}Automatic Reaction To Reel                                      {BB}   │")
-    print(f" {BB}│ 7. {white}Automatic Reaction To Group Link                              {BB}     │")
-    print(f" {BB}│ 8. {white}Automatic Reaction Video / Photo                               {BB}    │")
-    print(f" {BB}│ 9. {white}Automatic Reaction Comment                                     {BB}    │")
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭─────────────────── > {green}[{red} Auto Comments & Follow {green}] <{BB} ────────────────────╮")
-    print(f" {BB}│ 10.{white} Automatic Custom Comment                                        {BB}  │")
-    print(f" {BB}│ 11. {white}Automatic Reply Comment                                       {BB}    │")
-    print(f" {BB}│ 12. {white}Automatic Comment During Live                              {BB}       │")
-    print(f" {BB}│ 13. {white}Automatic Followers V1                                          {BB}  │")
-    print(f" {BB}│ 14. {white}Automatic Followers Page Or profile                            {BB}   │")
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭────────────────────── > {green}[{red} Other Services {green}] <{BB} ─────────────────────────╮")
-    print(f" {BB}│ 15. {white}Automatic Account Extractor                                     {BB}  │")
-    print(f" {BB}│ 16. {white}Token And Cookies Getter                                   {BB}       │")
-    print(f" {BB}│ 17. {white}Automatic Story Views ( cookies )                             {BB}    │")
-    print(f" {BB}│ 18. {white}Automatic Create Page                                         {BB}    │")
-    print(f" {BB}│ 19.{white} Automatic Set Facebook Profile Picture                          {BB}  │")   
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭───────────────────── >{green} [ {red}Automatic Share {green} ] <{BB} ────────────────────────╮")
-    print(f" {BB}│ 20. {white}Bot Share [ Fast ]                                               {BB} │")
-    print(f" {BB}│ 21. {white}Notification Share                                               {BB} │")
-    print(f" {BB}│ 22. {white}Using Token Share                                              {BB}   │")
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭─────────────────────── >{green} [{red} Mass Report {green} ] <{BB} ──────────────────────────╮")
-    print(f" {BB}│ 23.{white} Automatic Facebook mass Report                                   {BB} │")
-    print(f" {BB}└───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭───────────────────── >{green} [ {red}Facebook Creation {green} ] <{BB} ──────────────────────╮")
-    print(f"{BB} │ 24. {white}Auto Create Facebook Account                                    {BB}  │")
-    print(f"{BB} └───────────────────────────────────────────────────────────────────────┘")
-    
-    print(f" {BB}╭────────────────────── > {green}[{red} OTHER TOOLS {green}] <{BB} ────────────────────────────╮")
-    print(f" {BB}│ {red}* {white}Note This tools Is seprated Contact admin to Claim this Free Tools {BB} │ ")
-    print(f"{BB} │{red} * {white}Posible issue ( Sometimes  ❝ {red}Not {white}❞ Working Due Tools Cool Down    {BB}  │")
-    print(f" {BB}│{red} * {white}This Tools is {green}100% {white}Working                                     {BB}     │")
-    print(f" {BB}│ {red}[{green}-{red}]{white} Instagram Follower                                            {BB}    │")
-    print(f" {BB}│ {red}[{green}-{red}] {white}Instgram Likes                                               {BB}     │")
-    print(f" {BB}│{red} [{green}-{red}] {white}Tiktok Followers                                         {BB}         │")
-    print(f" {BB}│ {red}[{green}-{red}] {white}Tiktok Likes                                          {BB}            │")
-    print(f" {BB}└────────╮──────────────────────────────────────────────────────────────┘")
-    
+{BB} ──────────────────────────────────────────────────────────────────────────┘""")
+    print(f" 𝘽𝙤𝙤𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨 𝙊𝙉𝙃𝙊𝙇𝘿 𝘿𝙐𝙀 𝙇𝘼𝘾𝙆 𝙊𝙁 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 ")
+	print(f" 𝙏𝙄𝙈𝙀 𝙎𝙀𝙏 : 9:00𝘼𝙈 ")
+    print(f" 𝙏𝙊𝙊𝙇𝙎 𝙒𝙄𝙇𝙇 𝘽𝘿 𝙏𝙀𝙍𝙈𝙄𝙉𝘼𝙏𝙀𝘿 𝙄𝙁 𝙏𝙃𝙀𝙍𝙀𝙎 𝙉𝙊 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 𝘿𝙐𝙍𝙄𝙉𝙂 𝙏𝙍𝘼𝙉𝙎𝘼𝘾𝙏𝙄𝙊𝙉 ")
+	print(f" 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙓𝙄𝘼𝙉 @𝙓𝙄𝘼𝙉𝙉𝙉13 𝙄𝙉 𝙏𝙀𝙇𝙀𝙂𝙍À𝙈 ")
 #C:\Users\Dont touch my pc\Desktop\OPENSOURCE\sy.py
     choice = input(f"{white} CHOOSE : {BB}╰┈➤ {green}  ").strip()
-    if choice == '1':
-        extraction()
-    if choice == '2':
-        fetch_account_info(file_options)
-    if choice == '3':
-        check()
-    if choice == '4':
-        githubtoks()
-    if choice == '5':
-        perform_reaction_fast()
-    if choice == '6':
-        reels()
-    if choice == '7':
-        perform_reaction_fast()
-    if choice == '8':
-        vid()
-    if choice == '9':
-        comment_react()
-    if choice == '10':
-        perform_comment_fast()
-    if choice == '11': 
-        reply()
-    if choice == '12': 
-        live_comment()
-    if choice == '13':
-        auto_follow_fast()
-    if choice == '14':
-        perform_actions_from_file()
-    if choice == '15':
-        extractor()
-    if choice == '16':
-        cookie_token()
-    if choice == '17':
-        perform_viewfb_fast()
-    if choice == '18':
-        bitz()
-    if choice == '19':
-        mainzsa()
-    if choice == '20':
-        main2()
-    if choice == '21':
-        pub()
-    if choice == '22':
-        shar_e()
-    if choice == '23':
-        report_fb()
-    if choice == '24': 
-        main2()
-    if choice == '25':
-        githubtoks()
-    if choice == '26':
-        main2()
-    if choice == '27':
-        pub()
-    if choice == '28':
-        pass
-    if choice == '29':
-        pass
-    if choice == '30':
-        perform_viewfb_fast()
-    if choice == '31':
-        get_token()
-    if choice == '32':
-        report_fb()
-    if choice == '33':
-        tiktok_views()
+    
     if choice == '34':
         clear_text_files()
 
@@ -7551,4 +7435,5 @@ if __name__ == "__main__":
     
     
     
+
 
