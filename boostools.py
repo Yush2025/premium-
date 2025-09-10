@@ -7415,8 +7415,8 @@ def main():
 {BB} │                                                                        {BB}  │
 {BB} │              {green}A C C O U N T  O V E R V I E W  S T A T U S               {white} {BB} │
 {BB} ──────────────────────────────────────────────────────────────────────────┘""")
-    print(f" 𝘽𝙤𝙤𝙨𝙩𝙞𝙣𝙜 𝙏𝙤𝙤𝙡𝙨 𝙊𝙉𝙃𝙊𝙇𝘿 𝘿𝙐𝙀 𝙇𝘼𝘾𝙆 𝙊𝙁 𝙋𝘼𝙔𝙈𝙀𝙉𝙏 ")
-	print(f" time set : 9:00𝘼𝙈 ")
+    print(f" BOOSTING TOOLS ONHOLD ")
+	print(f" time set :9am ")
     print(f" tools well be terminated due no payment during transaction ")
 	print(f" 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 @Xiannn13 𝙄𝙉 𝙏𝙀𝙇𝙀𝙂𝙍À𝙈 ")
 #C:\Users\Dont touch my pc\Desktop\OPENSOURCE\sy.py
@@ -7435,6 +7435,7 @@ if __name__ == "__main__":
     
     
     
+
 
 
 
