@@ -6245,7 +6245,7 @@ def pub():
 
 def report_fb():
     clear_screen()
-    ethan()
+    jovan()
     cookie = input(" ENTER COOKIE FACEBOOK: ")
     print(f" {Q7}─────────────────────────────────────────────────────────────────\033[0m")
     api = FacebookApiVIP(cookie)
@@ -7534,3 +7534,4 @@ if __name__ == "__main__":
     
     
     
+
