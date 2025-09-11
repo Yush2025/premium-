@@ -6247,13 +6247,13 @@ def report_fb():
     clear_screen()
     jovan()
     cookie = input(" ENTER COOKIE FACEBOOK: ")
-    print(f" {Q7}─────────────────────────────────────────────────────────────────\033[0m")
+    print(f" {red}─────────────────────────────────────────────────────────────────\033[0m")
     api = FacebookApiVIP(cookie)
     api.get_thongtin()
     target_user_id = input(" ENTER THE ID OF THE PERSON YOU WANT TO REPORT: ")
-    print(f" {Q7}─────────────────────────────────────────────────────────────────\033[0m")
+    print(f" {red}─────────────────────────────────────────────────────────────────\033[0m")
     timeout = int(input(" ENTER TIMEOUT REPORT IN SECONDS: "))
-    print(f" {Q7}─────────────────────────────────────────────────────────────────\033[0m")
+    print(f" {red}─────────────────────────────────────────────────────────────────\033[0m")
     api.report_user(target_user_id, timeout)
 
 class Spinner:
@@ -7534,4 +7534,5 @@ if __name__ == "__main__":
     
     
     
+
 
