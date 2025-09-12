@@ -89,7 +89,21 @@ c="\033[1;36m"
 w="\033[1;37m"
 import sys
 import time
+def slow_print(text, delay=0.1):
+    for char in text:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(delay)
+    print()  
 
+# Example Usage
+
+slow_print("'\x1b[1;94m'Tools well be terminated soon ", delay=0.1)
+slow_print(" '\x1b[1;31m Update The payment to continue using this software ", delay= 0.01)
+slow_print (" \x1b[1;31m 3pm This Afternoon  Tools Well be Close ... ", delay= 0.07)
+
+
+slow_print (" '\x1b[1;32m'.  TOOLS ACCESS SUCCESSFULLY " , delay=0.01)
 
 import re
 import re
@@ -7534,5 +7548,6 @@ if __name__ == "__main__":
     
     
     
+
 
 
